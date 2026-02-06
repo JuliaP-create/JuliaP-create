@@ -40,19 +40,32 @@ I’m especially interested in problems where **data + experimental context** ma
 ---
 
 ## Featured projects
-> I’m prioritizing **original (non-forked)** projects here.  
-> My best repos and a 1–2 line description- to follow.
+>  These are my non-forked repos — I’m actively improving documentation and reproducibility.
 
-### Data Science / Analytics
-- **[Project Name 1](LINK)** — What problem it solves, dataset used, and the outcome/insight.
-- **[Project Name 2](LINK)** — Example: SQL + analysis + visualization, business/research framing.
+### 🏠 Regression + Feature Engineering
+- **King County House Price Prediction**  
+  Repo: https://github.com/JuliaP-create/ironhack-ironkaggle-miniproject  
+  ML regression with EDA + feature engineering and model optimization.
 
-### Machine Learning
-- **[Project Name 3](LINK)** — Example: supervised ML, clear metrics, interpretation, limitations.
-- **[Project Name 4](LINK)** — Example: time series / NLP / clustering, with a short write-up.
+### 🧪 EDA + Storytelling
+- **Obesity Lifestyle Factors (EDA)**  
+  Repo: https://github.com/JuliaP-create/Julia-EDA-Project-week-3  
+  Exploratory analysis of lifestyle/behavioral factors associated with obesity in a Latin American cohort.
 
-### (Optional) Life-science focused case study (open data)
-- **[Project Name 5](LINK)** — Public dataset + biomedical framing + reproducible ML pipeline.
+### 📰 NLP Classification
+- **Fake News Headline Classifier**  
+  Repo: https://github.com/JuliaP-create/nlp-fake-news-classifier  
+  Text preprocessing + supervised classification to label news headlines as fake/real.
+
+### 🖼️ Deep Learning (CNN + Transfer Learning)
+- **CIFAR‑10 Image Classification**  
+  Repo: https://github.com/JuliaP-create/project-deep-learning-image-classification-with-cnn-and-transfer-learning  
+  CNN baselines and transfer learning experiments for image classification.
+
+### 📊 Small App / Data Product
+- **Streamlit Iris Explorer**  
+  Repo: https://github.com/JuliaP-create/streamlit-iris-analysis  
+  A simple Streamlit app to interactively explore the Iris dataset.
 
 ---
 
@@ -72,14 +85,13 @@ I’m especially interested in problems where **data + experimental context** ma
 ---
 
 ## Publications & talks
-I’ve contributed to peer-reviewed scientific work (see Google Scholar / ORCID):
-- Google Scholar: LINK
-- ORCID: LINK
+I’ve contributed to peer-reviewed scientific work (see Google Scholar):
+- Google Scholar: [https://scholar.google.com/citations?user=AEky81UAAAAJ&hl=en&oi=ao]
 
 ---
 
 ## Let’s connect
-- LinkedIn: LINK
+- LinkedIn: [www.linkedin.com/in/julia-parnis]  
 
 
 Open to collaboration on DS/ML projects—especially those connected to biomedical or translational questions.
