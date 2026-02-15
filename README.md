@@ -4,7 +4,7 @@
 Currently finishing a Data Science/ML bootcamp and building a portfolio of reproducible, well‑documented projects.
 
 **LinkedIn:** https://www.linkedin.com/in/julia-parnis   
-Open to collaboration on DS/ML projects—especially those connected to biomedical or translational questions.
+Open to opportunities on DS/ML projects—especially those connected to biomedical or translational questions.
 
 ### Featured projects
 - 🧠 **Capstone (WIP):** [Diagnostic Reasoning Assistant](https://github.com/JuliaP-create/diagnostic-reasoning-assistant)
