@@ -1,6 +1,6 @@
 ## Hi, I’m Julia 👋
 
-**PhD in Medical Neurosciences** | Translational life‑science researcher → **Data Science & Machine Learning**  
+**PhD in Medical Neurosciences** | Translational life‑science researcher + **Data Science & Machine Learning**  
 Currently finishing a Data Science/ML bootcamp and building a portfolio of reproducible, well‑documented projects.
 
 **LinkedIn:** https://www.linkedin.com/in/julia-parnis   
